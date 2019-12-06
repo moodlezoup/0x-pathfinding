@@ -6,7 +6,7 @@ from zero_ex.order_utils import asset_data_utils
 import networkx as nx
 import random
 
-from pathfinder.order_graph import OrderGraph
+from .order_graph import OrderGraph
 
 
 TOKENS = {
